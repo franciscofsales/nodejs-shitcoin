@@ -1,6 +1,6 @@
 # The real shitcoin in nodejs
 
-Everyone is building shitcoins
+Just a blockchain proof of concept
 
 ## Installation
 
